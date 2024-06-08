@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "AnvilRepair",
+        "description": "VintlGvard's AnvilRepair",
+        "icon": {
+            "item": "minecraft:anvil"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "vintlgvard:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
