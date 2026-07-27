@@ -3,7 +3,7 @@
         "title": "AnvilRepair",
         "description": "VintlGvard's AnvilRepair",
         "icon": {
-            "item": "minecraft:anvil"
+            "id": "minecraft:anvil"
         },
         "announce_to_chat": false,
         "show_toast": false
